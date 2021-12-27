@@ -1,0 +1,13 @@
+site_name: Stock Ticker API
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Releases: releases.md
+theme:
+  name: material
+  nav_style: dark
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - python
